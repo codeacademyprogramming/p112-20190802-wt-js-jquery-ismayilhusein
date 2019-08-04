@@ -104,6 +104,6 @@ $("footer").prepend(`<footer class="py-5 bg-dark">
 <!-- /.container -->
 </footer>`)
  
-
+$("body").css("padding-top","60px")
 
 })
